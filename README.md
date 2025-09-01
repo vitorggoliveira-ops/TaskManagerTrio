@@ -1,0 +1,2 @@
+# TaskManagerTrio
+Gerenciador de Tarefas
